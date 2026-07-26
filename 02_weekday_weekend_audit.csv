@@ -1,0 +1,14 @@
+branch,year,quarter,total_weekday_revenue_indexed,total_weekend_revenue_indexed,weekday_contribution_percentage
+Cambridge,2025,Q1,2710.2,7779.4,25.84
+Cambridge,2025,Q2,6325.4,10585.9,37.4
+Cambridge,2025,Q3,7532.7,15688.5,32.44
+Cambridge,2025,Q4,7223.1,21968.3,24.74
+Cambridge,2026,Q1,3597.2,25927.8,12.18
+Cambridge,2026,Q2,2267.5,3365.6,40.25
+Cambridge,,,451.1,,100.0
+Watford,2025,Q1,990.0,3295.5,23.1
+Watford,2025,Q2,2324.4,7552.6,23.53
+Watford,2025,Q3,5160.6,15154.8,25.4
+Watford,2025,Q4,6754.2,23750.8,22.14
+Watford,2026,Q1,3892.5,25085.9,13.43
+Watford,2026,Q2,2235.8,1880.1,54.32

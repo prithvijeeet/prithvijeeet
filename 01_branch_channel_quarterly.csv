@@ -1,0 +1,13 @@
+branch,year,quarter,walkin_bookings_count,advance_bookings_count,walkin_revenue_indexed,advance_revenue_indexed
+Cambridge,2025,Q1,90,38,5445.3,4364.6
+Cambridge,2025,Q2,90,81,6374.5,10072.2
+Cambridge,2025,Q3,131,106,9091.3,13712.6
+Cambridge,2025,Q4,88,150,6509.0,21774.5
+Cambridge,2026,Q1,118,151,7779.1,21354.4
+Cambridge,2026,Q2,26,30,1905.0,3705.5
+Watford,2025,Q1,54,11,2563.4,1262.0
+Watford,2025,Q2,78,44,4190.6,5437.3
+Watford,2025,Q3,128,89,8634.5,11438.2
+Watford,2025,Q4,114,134,8346.2,21922.6
+Watford,2026,Q1,130,123,9157.9,19519.3
+Watford,2026,Q2,34,9,2718.2,1170.1

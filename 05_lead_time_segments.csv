@@ -1,0 +1,25 @@
+branch,traffic_segment,booking_horizon,total_bookings_count,total_net_revenue_indexed,average_lead_time_days,revenue_per_booking_indexed
+Cambridge,Weekday Slump (Mon-Thu),00 Same-Day Walk-in,203,13061.2,0.2,64.3
+Cambridge,Weekday Slump (Mon-Thu),01 Next-Day Planner,30,2450.4,1.4,81.7
+Cambridge,Weekday Slump (Mon-Thu),02 Short-term (2-3 days),30,2599.7,2.9,86.7
+Cambridge,Weekday Slump (Mon-Thu),03 Weekly Planner (4-7 days),24,2192.6,5.8,91.4
+Cambridge,Weekday Slump (Mon-Thu),04 Mid-term (1-2 weeks),29,3756.7,10.3,129.5
+Cambridge,Weekday Slump (Mon-Thu),05 Long-term (2+ weeks),29,3979.3,27.8,137.2
+Cambridge,Weekend Peak (Fri-Sun),00 Same-Day Walk-in,340,24043.0,0.2,70.7
+Cambridge,Weekend Peak (Fri-Sun),01 Next-Day Planner,52,5147.3,1.5,99.0
+Cambridge,Weekend Peak (Fri-Sun),02 Short-term (2-3 days),63,5791.0,3.0,91.9
+Cambridge,Weekend Peak (Fri-Sun),03 Weekly Planner (4-7 days),84,9319.5,5.8,110.9
+Cambridge,Weekend Peak (Fri-Sun),04 Mid-term (1-2 weeks),71,10580.6,11.1,149.0
+Cambridge,Weekend Peak (Fri-Sun),05 Long-term (2+ weeks),144,29166.8,30.8,202.5
+Watford,Weekday Slump (Mon-Thu),00 Same-Day Walk-in,169,10717.7,0.1,63.4
+Watford,Weekday Slump (Mon-Thu),01 Next-Day Planner,28,2208.0,1.5,78.9
+Watford,Weekday Slump (Mon-Thu),02 Short-term (2-3 days),11,828.4,2.7,75.3
+Watford,Weekday Slump (Mon-Thu),03 Weekly Planner (4-7 days),16,1774.1,5.8,110.9
+Watford,Weekday Slump (Mon-Thu),04 Mid-term (1-2 weeks),17,1987.8,11.3,116.9
+Watford,Weekday Slump (Mon-Thu),05 Long-term (2+ weeks),22,3073.9,33.2,139.7
+Watford,Weekend Peak (Fri-Sun),00 Same-Day Walk-in,369,24893.2,0.1,67.5
+Watford,Weekend Peak (Fri-Sun),01 Next-Day Planner,47,4840.4,1.5,103.0
+Watford,Weekend Peak (Fri-Sun),02 Short-term (2-3 days),46,5053.5,2.9,109.9
+Watford,Weekend Peak (Fri-Sun),03 Weekly Planner (4-7 days),63,8792.2,5.8,139.6
+Watford,Weekend Peak (Fri-Sun),04 Mid-term (1-2 weeks),52,8342.8,11.5,160.4
+Watford,Weekend Peak (Fri-Sun),05 Long-term (2+ weeks),108,23848.6,32.9,220.8

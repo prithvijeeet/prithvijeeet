@@ -1,0 +1,17 @@
+branch,traffic_segment,item_type,total_bookings_count,total_net_revenue_indexed,segment_revenue_contribution_pct
+Cambridge,Weekday Slump (Mon-Thu),Individuals,342,26447.5,87.84
+Cambridge,Weekday Slump (Mon-Thu),Party,8,2289.5,7.6
+Cambridge,Weekday Slump (Mon-Thu),Gift Card,21,1230.8,4.09
+Cambridge,Weekday Slump (Mon-Thu),Val VR Exp,2,103.6,0.34
+Cambridge,Weekday Slump (Mon-Thu),Meal Deal,1,35.8,0.12
+Cambridge,Weekend Peak (Fri-Sun),Individuals,683,64907.0,76.08
+Cambridge,Weekend Peak (Fri-Sun),Party,77,19303.7,22.63
+Cambridge,Weekend Peak (Fri-Sun),Gift Card,10,751.6,0.88
+Cambridge,Weekend Peak (Fri-Sun),Meal Deal,4,353.2,0.41
+Watford,Weekday Slump (Mon-Thu),Individuals,262,18190.8,85.17
+Watford,Weekday Slump (Mon-Thu),Party,12,2843.8,13.32
+Watford,Weekday Slump (Mon-Thu),Gift Card,7,322.9,1.51
+Watford,Weekend Peak (Fri-Sun),Individuals,604,51326.1,66.9
+Watford,Weekend Peak (Fri-Sun),Party,94,24826.0,32.36
+Watford,Weekend Peak (Fri-Sun),Gift Card,7,486.8,0.63
+Watford,Weekend Peak (Fri-Sun),Meal Deal,1,80.8,0.11
